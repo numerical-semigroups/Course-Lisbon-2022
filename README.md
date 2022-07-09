@@ -15,6 +15,9 @@ Room:  Seminar Room, Department of Mathematics, Nova School of Science and Techn
 
 ----------------------
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/numerical-semigroups/Course-Lisbon-2022/tutorial-numericalsgps.ipynb)
+----------------------
+
 ## Mini-curso de Semigrupos Numéricos
 12 e 13 Julho  2022
 
