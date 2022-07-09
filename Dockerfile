@@ -12,6 +12,10 @@ RUN git clone https://github.com/gap-packages/numericalsgps.git
 
 RUN mv numericalsgps inst/gap*/pkg
 
+RUN git clone https://github.com/gap-packages/laguna
+
+RUN mv laguna inst/gap*/pkg
+
 USER gap
 
 WORKDIR $HOME
