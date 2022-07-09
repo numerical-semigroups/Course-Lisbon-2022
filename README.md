@@ -15,7 +15,7 @@ Room:  Seminar Room, Department of Mathematics, Nova School of Science and Techn
 
 ----------------------
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/numerical-semigroups/Course-Lisbon-2022/HEAD)
+This course includes a [tutorial](https://github.com/numerical-semigroups/Course-Lisbon-2022/blob/main/tutorial-numericalsgps.ipynb) on the [numericalsgps](https://gap-packages.github.io/numericalsgps/) [GAP](https://gap-system.org/) package [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/numerical-semigroups/Course-Lisbon-2022/HEAD)
 
 ----------------------
 
