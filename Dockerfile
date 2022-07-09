@@ -8,6 +8,10 @@ RUN git clone https://github.com/nathancarter/jupyterviz.git
 
 RUN mv jupyterviz inst/gap*/pkg
 
+RUN git clone https://github.com/gap-packages/numericalsgps.git
+
+RUN mv numericalsgps inst/gap*/pkg
+
 USER gap
 
 WORKDIR $HOME
