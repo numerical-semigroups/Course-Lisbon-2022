@@ -15,7 +15,7 @@ Room:  Seminar Room, Department of Mathematics, Nova School of Science and Techn
 
 ----------------------
 
-You can launch the tutorial in [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/numerical-semigroups/Course-Lisbon-2022/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/numerical-semigroups/Course-Lisbon-2022/HEAD)
 
 ----------------------
 
