@@ -1,4 +1,4 @@
-# Mini-course on Numerical Semigroups.
+# Mini-course on Numerical Semigroups
 
 - Lecture 1. Numerical semigroups and notable elements
 July 12th, Tuesday, 10:30am to 12pm
