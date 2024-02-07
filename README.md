@@ -1,13 +1,13 @@
 # Mini-course on Numerical Semigroups
 
 - Lecture 1. Numerical semigroups and notable elements
-July 12th, Tuesday, 10:30am to 12pm
+12 July 2022, Tuesday, 10:30am to 12pm
 
 - Lecture 2. Minimal presentations and factorizations
-July 12th, Tuesday, 14:30pm to 16pm
+12 July 2022, Tuesday, 14:30pm to 16pm
 
 - Lecture 3. Gluings of numerical semigroups
-July 13th, Wednesday, 10:30am to 12pm
+13 July 2023, Wednesday, 10:30am to 12pm
 
 Speaker: Pedro A. García-Sánchez
 
