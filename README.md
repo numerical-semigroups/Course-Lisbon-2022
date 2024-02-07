@@ -17,6 +17,9 @@ Room:  Seminar Room, Department of Mathematics, Nova School of Science and Techn
 
 This course includes a [tutorial](https://github.com/numerical-semigroups/Course-Lisbon-2022/blob/main/tutorial-numericalsgps.ipynb) on the [GAP](https://gap-system.org/) package [numericalsgps](https://gap-packages.github.io/numericalsgps/)  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/numerical-semigroups/Course-Lisbon-2022/HEAD)
 
+
+A friendly version of this repo can be found [here](https://numerical-semigroups.github.io/Course-Lisbon-2022/).
+
 ----------------------
 
 ## Mini-curso de Semigrupos Numéricos
